@@ -63,7 +63,7 @@ public class login extends AppCompatActivity {
                 public void onResponse(String response) {
                     progressDialog.dismiss();
 
-                    if(response.equalsIgnoreCase("ingreso correctamente")){
+                    if(response.equalsIgnoreCase("Bienvenido")){
 
                         username.setText("");
                         pass.setText("");
