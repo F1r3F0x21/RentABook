@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "52659425942",
+    "firebase_url": "https://bookrentalusers-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bookrentalusers",
+    "storage_bucket": "bookrentalusers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52659425942:android:cd8c903b5a793e6e5228b7",
+        "android_client_info": {
+          "package_name": "com.example.bookrentalupm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-d_-PlSNPw_CHoY3cd1OoxKU0oKm2pnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52659425942:android:06fb0b3946d6f56c5228b7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-d_-PlSNPw_CHoY3cd1OoxKU0oKm2pnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
