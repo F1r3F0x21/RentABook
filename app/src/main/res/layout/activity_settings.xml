@@ -2,6 +2,7 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background = "@drawable/log_back"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <LinearLayout
@@ -14,6 +15,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Configuración"
+            android:textColor="@color/black"
             android:textSize="24sp"
             android:textStyle="bold" />
 
@@ -26,6 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Notificaciones"
+            android:textColor="@color/black"
             android:textSize="18sp"
             android:paddingTop="16dp" />
 
@@ -39,6 +42,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Actualizaciones automáticas"
+            android:textColor="@color/black"
             android:textSize="18sp"
             android:paddingTop="16dp" />
 
@@ -53,6 +57,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Guardar cambios"
+            android:backgroundTint="#836648"
             android:layout_marginTop="24dp" />
 
 
